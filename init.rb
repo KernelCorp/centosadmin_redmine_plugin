@@ -1,5 +1,5 @@
 # Hooks
-require_dependency 'centos_admin/hooks/view_projects_form_hook'
+require_dependency 'centos_admin/hooks/projects_hooks'
 
 # Patches
 require 'centos_admin/patches/project_patch'

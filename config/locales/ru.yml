@@ -1,4 +1,7 @@
 ru:
   centos_admin:
     managers_roles: Уведомлять
+    project:
+      time_reserve: План
+      time_remain: Осталось
   field_time_reserve: Запас времени
