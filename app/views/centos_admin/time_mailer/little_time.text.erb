@@ -1,1 +1,2 @@
-Осталось <%= @project.time_remanining %> часа до исчерпания выделенного времени.
+Осталось мало времени.
+<%= url_for controller: 'projects', action: 'show', id: @project.identifier %>
